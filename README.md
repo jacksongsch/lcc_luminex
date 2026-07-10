@@ -1,7 +1,4 @@
-# LRRK2 Immune
-
-**Soluble immune factor profiles in blood and CSF associated with LRRK2
-mutations and Parkinson's disease.**
+# Soluble immune factor profiles in blood and CSF associated with LRRK2 mutations and Parkinson's disease
 
 Jaffery R, Zhao Y, Ahmed S, Schumacher JG, Ahn J, Shi L, Wang Y, Tan Y,
 Chen K, Tawbi H, Wang J, Schwarzschild MA, Peng W, Chen X.
