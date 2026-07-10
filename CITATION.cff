@@ -1,0 +1,81 @@
+cff-version: 1.2.0
+title: >-
+  Soluble immune factor profiles in blood and CSF associated
+  with LRRK2 mutations and Parkinson's disease
+message: >-
+  If you use this software, please cite the published article.
+type: software
+authors:
+  - given-names: Roshni
+    family-names: Jaffery
+  - given-names: Yuhang
+    family-names: Zhao
+  - given-names: Sarfraz
+    family-names: Ahmed
+  - given-names: Jackson G.
+    family-names: Schumacher
+    orcid: 'https://orcid.org/0009-0000-4227-4710'
+  - given-names: Jae
+    family-names: Ahn
+  - given-names: Leilei
+    family-names: Shi
+  - given-names: Yujia
+    family-names: Wang
+  - given-names: Yukun
+    family-names: Tan
+  - given-names: Ken
+    family-names: Chen
+  - given-names: Hussein
+    family-names: Tawbi
+  - given-names: Jian
+    family-names: Wang
+  - given-names: Michael A.
+    family-names: Schwarzschild
+  - given-names: Weiyi
+    family-names: Peng
+  - given-names: Xiqun
+    family-names: Chen
+identifiers:
+  - type: doi
+    value: 10.1038/s41531-025-01215-5
+repository-code: 'https://github.com/jacksongsch/lrrk2_immune'
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: >-
+    Soluble immune factor profiles in blood and CSF associated
+    with LRRK2 mutations and Parkinson's disease
+  authors:
+    - given-names: Roshni
+      family-names: Jaffery
+    - given-names: Yuhang
+      family-names: Zhao
+    - given-names: Sarfraz
+      family-names: Ahmed
+    - given-names: Jackson G.
+      family-names: Schumacher
+    - given-names: Jae
+      family-names: Ahn
+    - given-names: Leilei
+      family-names: Shi
+    - given-names: Yujia
+      family-names: Wang
+    - given-names: Yukun
+      family-names: Tan
+    - given-names: Ken
+      family-names: Chen
+    - given-names: Hussein
+      family-names: Tawbi
+    - given-names: Jian
+      family-names: Wang
+    - given-names: Michael A.
+      family-names: Schwarzschild
+    - given-names: Weiyi
+      family-names: Peng
+    - given-names: Xiqun
+      family-names: Chen
+  doi: 10.1038/s41531-025-01215-5
+  journal: npj Parkinson's Disease
+  volume: 11
+  pages: '365'
+  year: 2025
